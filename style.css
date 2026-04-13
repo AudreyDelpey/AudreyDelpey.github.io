@@ -171,7 +171,7 @@ p {
 =========================== */
 .hero {
   position: relative;
-  min-height: 88vh;
+min-height: 900px;
   display: flex;
   align-items: center;
   justify-content: center;
